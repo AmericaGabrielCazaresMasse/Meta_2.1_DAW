@@ -1,16 +1,12 @@
 <script setup>
-import TarjetaConImagen from './components/TarjetaConImagen.vue'
+import AppHeader from './components/AppHeader.vue'
 </script>
 
 <template>
   <v-app>
+    <AppHeader />
     <v-main>
-      <TarjetaConImagen
-        image-url="https://picsum.photos/id/10/300/200"
-        title="Tarjeta de Prueba"
-        description="Probando el componente"
-        author="Autor de prueba"
-      />
+      <p>Contenido de prueba</p>
     </v-main>
   </v-app>
 </template>

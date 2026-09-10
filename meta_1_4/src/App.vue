@@ -1,6 +1,7 @@
 <script setup>
 import AppFooter from './components/AppFooter.vue'
 import AppHeader from './components/AppHeader.vue'
+import TablaDeDatos from './components/TablaDeDatos.vue'
 </script>
 
 <template>
@@ -8,7 +9,7 @@ import AppHeader from './components/AppHeader.vue'
     <AppHeader />
     <v-main>
       <v-container>
-        <p>Contenido de prueba</p>
+        <TablaDeDatos />
       </v-container>
     </v-main>
     <AppFooter />

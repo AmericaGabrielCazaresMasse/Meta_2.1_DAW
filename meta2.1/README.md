@@ -2,13 +2,13 @@
 
 Aplicación web desarrollada como parte de la Meta 2.1 de la materia **Desarrollo de Aplicaciones Web (DAW)**.
 
-Se desarrolló un portafolio fotografico, una aplicación web que utiliza la **API pública de [Lorem Picsum](https://picsum.photos/)** para mostrar imágenes aleatorias en tarjetas, permite actualizarlas con un botón, y muestra además una tabla con las habilidades técnicas, todos los componentes usando Vue y Vuetify.
+Se desarrolló un portafolio fotográfico, una aplicación web que utiliza la **API pública de [Lorem Picsum](https://picsum.photos/)** para mostrar imágenes aleatorias en tarjetas, permite actualizarlas con un botón, y muestra además una tabla con las habilidades técnicas, todos los componentes usando Vue y Vuetify.
 
 ## Captura de pantalla
 
 ![Captura de la aplicación funcionando](Screenshot_Sitio.png)
 
-Se puede apreciar en la anterior captura que se puede visualizr la estructura completa de la app (encabezado, tarjetas de fotos, el boton de actualizacion, la tabla de habilidades, y el pie de pagina solicitado)
+Se puede apreciar en la anterior captura que se puede visualizar la estructura completa de la app (encabezado, tarjetas de fotos, el botón de actualizacion, la tabla de habilidades, y el pie de página solicitado)
 
 ## Instrucciones de instalación y ejecución
 

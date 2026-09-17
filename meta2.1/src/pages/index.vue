@@ -4,14 +4,14 @@ import TarjetaConImagen from '@/components/TarjetaConImagen.vue'
 import TablaDeDatos from '@/components/TablaDeDatos.vue'
 
 const tarjeta1 = ref({
-  imageUrl: 'https://picsum.photos/id/10/300/200',
+  imageUrl: '',
   title: 'Fotografía 1',
   description: 'Imagen obtenida desde la API de Picsum',
   author: 'Cargando...'
 })
 
 const tarjeta2 = ref({
-  imageUrl: 'https://picsum.photos/id/20/300/200',
+  imageUrl: '',
   title: 'Fotografía 2',
   description: 'Imagen obtenida desde la API de Picsum',
   author: 'Cargando...'

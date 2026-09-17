@@ -1,4 +1,4 @@
-# Mi Portafolio Fotográfico
+# Meta 2.1 - Desarrollo de Aplicaciones Web - Mi portafolio fotográfico
 
 Aplicación web desarrollada como parte de la Meta 2.1 de la materia **Desarrollo de Aplicaciones Web (DAW)**.
 

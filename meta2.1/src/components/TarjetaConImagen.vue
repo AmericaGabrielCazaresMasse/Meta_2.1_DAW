@@ -1,6 +1,12 @@
 <template>
   <v-card class="mx-auto" max-width="400">
-    <v-img :src="imageUrl" height="200" cover></v-img>
+    <v-img :src="imageUrl" height="200" cover>
+      <template #placeholder>
+        <v-row class="fill-height ma-0" align="center" justify="center">
+          <v-progress-circular indeterminate color="dark-blue"></v-progress-circular>
+        </v-row>
+      </template>
+    </v-img>
     <v-card-title>{{ title }}</v-card-title>
     <v-card-subtitle>Foto por: {{ author }}</v-card-subtitle>
     <v-card-text>{{ description }}</v-card-text>

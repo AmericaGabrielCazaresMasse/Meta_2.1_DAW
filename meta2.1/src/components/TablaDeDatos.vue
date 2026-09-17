@@ -1,8 +1,8 @@
 <script setup>
 const habilidades = [
   { habilidad: 'Ensamblador', nivel: 'Básico', proyectos: 1 },
-  { habilidad: 'Python', nivel: 'Basico', proyectos: 1 },
-  { habilidad: 'HTML/CSS', nivel: 'Intermedio', proyectos: 2 },
+  { habilidad: 'Python', nivel: 'Básico', proyectos: 1 },
+  { habilidad: 'HTML/CSS', nivel: 'Básico', proyectos: 2 },
   { habilidad: 'Git', nivel: 'Básico', proyectos: 2 },
 ]
 </script>
